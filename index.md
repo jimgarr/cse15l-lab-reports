@@ -5,7 +5,8 @@ __Hello, World__
 # Hello World
 ## Hello World
 [link](https://www.google.com/)
-![Image](http://url/a.png)
+
+![Image](week 1 lab sc2.png)
 > Hello World
 - Hey
 - Hey
