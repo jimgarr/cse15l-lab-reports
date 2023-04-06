@@ -1,5 +1,7 @@
 *Hey, it's a-me, mario*
+
 __Hello, World__
+
 # Hello World
 ## Hello World
 [link](https://www.google.com/)
@@ -11,9 +13,12 @@ __Hello, World__
 1. one
 2. two
 3. three
+
 Something:
 ---
+
 'Something' hey
+
 '''
 block1
 block2
