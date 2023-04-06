@@ -17,10 +17,10 @@ __Hello, World__
 Something:
 ---
 
-'Something' with backticks
+`Something` with backticks
 
-'''
+```
 # block1
 block2
 block3
-'''
+```
