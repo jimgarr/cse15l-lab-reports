@@ -6,7 +6,7 @@ __Hello, World__
 ## Hello World
 [link](https://www.google.com/)
 
-![Image]([week 1 lab sc2.png](https://github.com/jimgarr/cse15l-lab-reports/blob/main/week%201%20lab%20sc2.png))
+!([week 1 lab sc2.png](https://github.com/jimgarr/cse15l-lab-reports/blob/main/week%201%20lab%20sc2.png))
 > Hello World
 - Hey
 - Hey
