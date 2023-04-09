@@ -1,6 +1,6 @@
 # Lab Report 1
 ## Description
-This lab report includes how to download Visual Studio Code, how to connect to the remote access computer using ssh, and then using some commands once connected.
+This lab report includes how to download Visual Studio Code, how to connect to the remote access computer using ssh, and then running some commands once connected.
 
 ## Step 1: Downloading Visual Studio Code
 Visual Studio Code (VSCode) is what is used to connect to the remote computer so we have to download it first before attemtping to connect. If you don't already have VSCode installed, go to the link at [VSCode Download](https://code.visualstudio.com/) and follow the installation instructions. Once downloaded, open a window that should look like the following image. 
@@ -14,8 +14,19 @@ The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
-You don't have to worry too much about this message so just go ahead and type yes and then press Enter. From here the terminal will ask for your password. This is the password for your course-specific account for CSE15l. For privacy and security reasons, your password will not show as you are typing. Once you enter in your password, the terminal will output something similar to the following image. 
-![week 1 lab sc2.png]()
+You don't have to worry too much about this message so just go ahead and type yes and then press Enter. From here the terminal will ask for your password. This is the password for your course-specific account for CSE15l. For privacy and security reasons, your password will not show as you are typing. Once you enter in your password, the terminal will output something similar to the following image.
+![week 1 lab sc2.png](https://github.com/jimgarr/cse15l-lab-reports/blob/main/week%201%20lab%20sc2.png)
+
+This means you have successfully connected to the server! If the terminal repeatedly asks for your password that means that you are inputting the wrong password. 
+
+## Step 3: Running Some Commands
+There are several commands that you can run but the main ones you should try start with `cd`, `ls`, `pwd`, `mkdir`, and `cp`. 
+Some examples are: 
+* The commands above by themselves
+* `cd ~`
+* `ls -lat`
+* `ls -a`
+* `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
 
 You will write a tutorial for incoming 15L students (and your future self!) about how to log into a course-specific account on ieng6. Your post should include all the steps you took, along with screenshots of what each step looked like. You’re free to use the screenshots you took for lab 1, or new ones. Complete any steps you didn’t complete in your group on your own.
 
