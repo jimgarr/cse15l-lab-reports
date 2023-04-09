@@ -28,7 +28,8 @@ Some examples are:
 * `ls -a`
 * `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
 
-
+Running `ls lat` should produce something like the following image: 
+![week 1 lab sc3.png]()
 
 You will write a tutorial for incoming 15L students (and your future self!) about how to log into a course-specific account on ieng6. Your post should include all the steps you took, along with screenshots of what each step looked like. You’re free to use the screenshots you took for lab 1, or new ones. Complete any steps you didn’t complete in your group on your own.
 
