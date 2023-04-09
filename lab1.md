@@ -15,7 +15,7 @@ RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
 You don't have to worry too much about this message so just go ahead and type yes and then press Enter. From here the terminal will ask for your password. This is the password for your course-specific account for CSE15l. For privacy and security reasons, your password will not show as you are typing. Once you enter in your password, the terminal will output something similar to the following image. 
-![]()
+![week 1 lab sc2.png]()
 
 You will write a tutorial for incoming 15L students (and your future self!) about how to log into a course-specific account on ieng6. Your post should include all the steps you took, along with screenshots of what each step looked like. You’re free to use the screenshots you took for lab 1, or new ones. Complete any steps you didn’t complete in your group on your own.
 
