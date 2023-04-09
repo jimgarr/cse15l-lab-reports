@@ -1,7 +1,9 @@
-#Lab Report 1
-##Description
-This lab report includes how to download vscode, connect to the remote access computer using ssh, and then doing some commands.
+# Lab Report 1
+## Description
+This lab report includes how to download Visual Studio Code, how to connect to the remote access computer using ssh, and then using some commands once connected.
 
+## Downloading Visual Studio Code
+Visual Studio Code (VSCode) is what is used to connect to the remote computer so we have to download it first before attemtping to connect. If you don't already have VSCode installed, go to the link at https://code.visualstudio.com/ and follow the installation instructions. Once downloaded, open a window that should look like the following image. 
 
 You will write a tutorial for incoming 15L students (and your future self!) about how to log into a course-specific account on ieng6. Your post should include all the steps you took, along with screenshots of what each step looked like. You’re free to use the screenshots you took for lab 1, or new ones. Complete any steps you didn’t complete in your group on your own.
 
