@@ -4,7 +4,7 @@ This lab report includes how to download Visual Studio Code, how to connect to t
 
 ## Step 1: Downloading Visual Studio Code
 Visual Studio Code (VSCode) is what is used to connect to the remote computer so we have to download it first before attemtping to connect. If you don't already have VSCode installed, go to the link at [VSCode Download](https://code.visualstudio.com/) and follow the installation instructions. Once downloaded, open a window that should look like the following image. 
-![Week 1 lab vs code screenshot.png](https://github.com/jimgarr/cse15l-lab-reports/blob/main/Week%201%20lab%20vs%20code%20screenshot.png)
+![Tester](lab1SS.png)
 
 ## Step 2: Remotely Connecting to the Computer Server
 Before we trying connecting, we need to install [git](https://gitforwindows.org/) for Windows. If you have a Mac then it is already installed on your computer so you don't have to worry about this part of the step. Once installed, go to the VSCode window and open a new terminal. This can be done by either pressing the \` and ctrl keys at the same time or by clicking on the terminal tab at the top left and then clicking "new terminal". Then open the command pallette by pressing the ctrl, Shift, and P keys at the same time. Then type Select New Profile and select Git Bash from the options. Then in the terminal, click the + on the right side and a new terminal using Git Bash is created. 
