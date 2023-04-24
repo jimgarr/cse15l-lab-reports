@@ -20,7 +20,7 @@ You don't have to worry too much about this message so just go ahead and type ye
 This means you have successfully connected to the server! If the terminal repeatedly asks for your password that means that you are inputting the wrong password. 
 
 ## Step 3: Running Some Commands
-There are several commands that you can run but the main ones you should try start with `cd`, `ls`, `pwd`, `mkdir`, and `cp`. 
+There are several commands that you can run but the main ones you should try start with `cd`, `ls`, `pwd`, `mkdir`, and `cp`. The cd command allows you to change the current working directory. Using cd by itself takes you back to the home directory. Lets say I use the ls command first and find the files within the current working directory. From there I can use a cd command combined with one of the file names displayed from the ls command to change the current working directory to that file. ls by itself lists the files and other directories in the current working directory that aren't hidden. Attaching -a after the ls would do the same thing but also include hidden files which are file names that begin with a dot. ls -l lists the files in a long list format that displays other useful information such as when the file was last modified. There are many more combinations of commands that can be explored but that can be left up to you find out!
 Some examples are: 
 * The commands above by themselves
 * `cd ~`
@@ -31,4 +31,4 @@ Some examples are:
 Running `ls lat` should produce something like the following image: 
 ![Third Screenshot](lab1SS3.png)
 
-Once you are satisfied after running some commands, you can exit the terminal by typing `exit`. Heyyyy
+Once you are satisfied after running some commands, you can exit the terminal by typing `exit`.
