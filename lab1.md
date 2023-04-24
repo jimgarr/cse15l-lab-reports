@@ -31,4 +31,4 @@ Some examples are:
 Running `ls lat` should produce something like the following image: 
 ![Third Screenshot](lab1SS3.png)
 
-Once you are satisfied after running some commands, you can exit the terminal by typing `exit`.
+Once you are satisfied after running some commands, you can exit the terminal by typing `exit`. hello
